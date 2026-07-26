@@ -207452,6 +207452,25 @@
   "file_count": 1
  },
  {
+  "slug": "steal-this",
+  "files": [
+   {
+    "filename": "StealThisFont!-Regular.woff2",
+    "format": "woff2",
+    "weight": 400,
+    "style": "normal",
+    "path": "/fonts/external/steal-this/StealThisFont!-Regular.woff2"
+   }
+  ],
+  "variants": [
+   {
+    "weight": 400,
+    "style": "normal"
+   }
+  ],
+  "file_count": 1
+ },
+ {
   "slug": "steal-this-font",
   "files": [
    {
