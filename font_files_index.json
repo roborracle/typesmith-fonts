@@ -160031,6 +160031,46 @@
   "file_count": 4
  },
  {
+  "slug": "open-sans-condensed",
+  "files": [
+   {
+    "filename": "opensanscondensed-0.woff2",
+    "format": "woff2",
+    "weight": 400,
+    "style": "normal",
+    "path": "/fonts/external/open-sans-condensed/opensanscondensed-0.woff2"
+   },
+   {
+    "filename": "opensanscondensed-1.woff2",
+    "format": "woff2",
+    "weight": 400,
+    "style": "normal",
+    "path": "/fonts/external/open-sans-condensed/opensanscondensed-1.woff2"
+   },
+   {
+    "filename": "opensanscondensed-2.woff2",
+    "format": "woff2",
+    "weight": 400,
+    "style": "normal",
+    "path": "/fonts/external/open-sans-condensed/opensanscondensed-2.woff2"
+   },
+   {
+    "filename": "opensanscondensed-3.woff2",
+    "format": "woff2",
+    "weight": 400,
+    "style": "normal",
+    "path": "/fonts/external/open-sans-condensed/opensanscondensed-3.woff2"
+   }
+  ],
+  "variants": [
+   {
+    "weight": 400,
+    "style": "normal"
+   }
+  ],
+  "file_count": 4
+ },
+ {
   "slug": "open-sauce-typeface",
   "files": [
    {
@@ -220999,6 +221039,46 @@
    }
   ],
   "file_count": 2
+ },
+ {
+  "slug": "titillium",
+  "files": [
+   {
+    "filename": "titillium-0.woff2",
+    "format": "woff2",
+    "weight": 400,
+    "style": "normal",
+    "path": "/fonts/external/titillium/titillium-0.woff2"
+   },
+   {
+    "filename": "titillium-1.woff2",
+    "format": "woff2",
+    "weight": 400,
+    "style": "normal",
+    "path": "/fonts/external/titillium/titillium-1.woff2"
+   },
+   {
+    "filename": "titillium-2.woff2",
+    "format": "woff2",
+    "weight": 400,
+    "style": "normal",
+    "path": "/fonts/external/titillium/titillium-2.woff2"
+   },
+   {
+    "filename": "titillium-3.woff2",
+    "format": "woff2",
+    "weight": 400,
+    "style": "normal",
+    "path": "/fonts/external/titillium/titillium-3.woff2"
+   }
+  ],
+  "variants": [
+   {
+    "weight": 400,
+    "style": "normal"
+   }
+  ],
+  "file_count": 4
  },
  {
   "slug": "titoli-di-testa",
